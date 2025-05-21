@@ -1,1 +1,1 @@
-   # FAce-Ditecter Made By ANUP    
+   # FACe-Ditecter Made By ANUP    
